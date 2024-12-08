@@ -8,6 +8,8 @@
 
 実績 : Reazon賞 受賞🥇
 
+URL : [Topa'z](https://topaz.dev/projects/d07aaceab7659b8beb47)
+
 ## 技術スタック
  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic"> <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic">  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic"> <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
 
