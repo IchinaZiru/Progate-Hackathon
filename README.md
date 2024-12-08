@@ -16,6 +16,7 @@
 > 現代の技術は、音声認識やAIによる自然言語処理、モーション検出などの分野で急速に進化しており、それらを組み合わせることで、ユーザーがより直感的に、手を使わずに操作できるシステムを提供することができると考えました。
 
 ## 構成図
-![AWS_Structure](https://github.com/user-attachments/assets/2820a48e-6cbb-4484-8d5a-144d85f38b09)
+![AWS_Structure](https://github.com/user-attachments/assets/ed11eae6-52e9-43f1-93ce-8571c75653b2)
+
 
 
