@@ -1,0 +1,8 @@
+websockets
+speechrecognition
+gtts
+pygame
+fastapi
+uvicorn
+python-dotenv
+openai
